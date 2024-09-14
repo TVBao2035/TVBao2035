@@ -2,7 +2,7 @@
 - 💞️ :)))
 - 🌱 I’m currently learning fullStack developer
 - 👀 I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me \n
 - | + Zalo: 0865466071
 - | + FB: Văn Bảo 
 
