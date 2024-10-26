@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span> -->
+<span><img src="https://img.shields.io/badge/mysql.js-282C34?logo=mysql.js&logoColor=#4479A1" alt="mysql.js logo" title="mysql.js" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span> -->
 &nbsp;
