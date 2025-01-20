@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!--- Trương Văn Bảo --->
 <a href="#" target="_blank">
   <img src="svg/tvb.svg" width="1200" alt="bao-official" />
 </a>
@@ -48,6 +48,7 @@
 &nbsp; -->
 
 <br>
+<!-- tvb -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
